@@ -1,1 +1,6 @@
-data/*.fastq
+data/*.fasta
+data/listing.*
+data/test/
+data/seqs/
+
+
