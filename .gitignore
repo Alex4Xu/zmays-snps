@@ -2,5 +2,5 @@ data/*.fasta
 data/listing.*
 data/test/
 data/seqs/
-
-
+*.fa.gz
+analysis/
