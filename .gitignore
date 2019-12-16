@@ -4,3 +4,12 @@ data/test/
 data/seqs/
 *.fa.gz
 analysis/
+CHECKSUMS
+McIlroy_script.txt
+Mus_musculus.GRCm38.74.dna.toplevel.fa
+Mus_musculus.GRCm38.74.gtf.gz
+Mus_musculus.GRCm38.75_chr1.bed
+chr22.fa
+diff/
+nums.txt
+tb1.fasta.gz
